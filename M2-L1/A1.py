@@ -1,0 +1,26 @@
+l = ['Mango', 'Watermelon', 'Orange', 'Sweet Potato', 'Lichee']
+print(l)
+print("\n")
+print(len(l))
+print("\n")
+#Indexing
+print(l[0])
+print("\n")
+print(l[1])
+print("\n")
+#Slicing
+print(l[1:4])
+print("\n")
+#Sorting
+l.sort()
+print(l)
+print("\n")
+#Reverse
+l.reverse()
+print(l)
+print("\n")
+#Pop
+l.pop()
+print(l)
+l.clear()
+print(l)
