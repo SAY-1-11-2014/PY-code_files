@@ -1,0 +1,11 @@
+comp = 5
+user = int(input("Enter a number between 1 and 10: "))
+
+
+if user > comp
+    print("Your number is bigger than the actual number")
+elif user < comp
+    print("Your number is smaller than the actual number")
+else
+    print("You are correct")
+The actual number was: 5
